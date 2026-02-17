@@ -1,10 +1,9 @@
 # Evan Harrold
 
-<h3 align="center">iOS Developer • Backend Engineer • AI & Crypto Builder</h3>
+<h3 align="center">iOS Developer • Backend Engineer
 
 <p align="center">
-Building scalable products at the intersection of mobile, AI, and blockchain.
-</p>
+Building scalable products at the intersection of mobile, and AI
 
 ---
 
@@ -15,7 +14,6 @@ Product-focused developer shipping real-world applications across iOS, backend s
 • iOS Development  
 • Backend Architecture  
 • AI Integrations  
-• Blockchain Systems  
 
 ---
 
