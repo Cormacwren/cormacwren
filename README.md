@@ -3,55 +3,32 @@
 <h3 align="center">iOS Developer • Backend Engineer • AI & Crypto Builder</h3>
 
 <p align="center">
-  Building scalable products at the intersection of mobile, AI, and blockchain.
+Building scalable products at the intersection of mobile, AI, and blockchain.
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I’m a product-focused developer building real-world applications that blend clean mobile experiences, robust backend systems, and emerging AI + crypto technologies.
+Product-focused developer shipping real-world applications across iOS, backend systems, AI integrations, and blockchain infrastructure.
 
-I focus on shipping — not just experimenting.
-
-- 📱 iOS Development
-- 🛠 Backend Architecture
-- 🤖 AI Integrations
-- ⛓ Blockchain Systems
-- 🚀 Product Launch & Iteration
+• iOS Development  
+• Backend Architecture  
+• AI Integrations  
+• Blockchain Systems  
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Projects
 
-### 🔹 Clawr  
-The first iOS app for OpenClaw — create, import, and manage AI agents directly from mobile.
-
-### 🔹 Hashtag  
-AI-powered knowledge workflows exploring LLM systems and automation.
-
-### 🔹 Chess AI  
-Python-based chess engine implementing minimax and game strategy logic.
+**Clawr** — First iOS app for OpenClaw. Create, import, and manage AI agents from mobile.  
+**Hashtag** — AI-powered knowledge workflows & LLM automation.  
+**Chess AI** — Python chess engine using minimax strategy logic.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Skills
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
----
 
-## 🌐 Connect
-
-- Portfolio: https://evanharrold.com  
-- X: https://x.com/Cormacwren  
-
----
-
-<p align="center">
-  <i>Engineering scalable systems. Designing intelligent products. Shipping consistently.</i>
-</p>
