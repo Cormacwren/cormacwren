@@ -45,15 +45,6 @@ Python-based chess engine implementing minimax and game strategy logic.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cormacwren&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cormacwren&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect
 
 - Portfolio: https://evanharrold.com  
