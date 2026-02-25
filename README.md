@@ -1,32 +1,82 @@
+<div align="center">
+
 # Evan Harrold
 
-<h3 align="center">iOS Developer • Backend Engineer
+### iOS Developer · Backend Engineer · AI Systems Builder
 
-<p align="center">
-Building scalable products at the intersection of mobile, and AI
+Building scalable products at the intersection of **mobile**, **AI agents**, and **distributed infrastructure**
 
----
+<br>
 
-## 👋 About
-
-Product-focused developer shipping real-world applications across iOS, backend systems, AI integrations, and blockchain infrastructure.
-
-• iOS Development  
-• Backend Architecture  
-• AI Integrations  
+</div>
 
 ---
 
-## 🚀 Projects
+## About
 
-**Clawr** — First iOS app for OpenClaw. Create, import, and manage AI agents from mobile.  
-**Hashtag** — AI-powered knowledge workflows & LLM automation.  
-**Chess AI** — Python chess engine using minimax strategy logic.
+Product-driven engineer focused on designing and shipping real-world software across mobile platforms, backend architecture, AI integrations, and emerging blockchain systems.
+
+I care deeply about **product feel**, **scalability**, and **developer experience** — building tools that are both technically sophisticated and intuitively usable.
+
+**Focus Areas**
+
+- Native iOS application development  
+- Backend systems & real-time architecture  
+- AI agent orchestration & integrations  
+- Applied blockchain infrastructure  
 
 ---
 
-## 🛠 Skills
+## Selected Projects
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### Clawr  
+The first iOS application for OpenClaw — enabling users to create, import, and manage autonomous AI agents directly from mobile.
 
+Focus: agent UX, mobile orchestration, secure identity, real-time task flows
 
+---
+
+### Hashtag  
+AI-powered knowledge workflow platform designed for structured LLM automation and persistent context systems.
+
+Focus: memory systems, workflow orchestration, knowledge graphs
+
+---
+
+### Chess AI  
+Python-based chess engine implementing minimax strategy logic and evaluation heuristics.
+
+Focus: algorithm design, decision trees, performance optimization
+
+---
+
+## Technical Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=swift,js,ts,python,html,css,wasm,nodejs,postgres,git)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Philosophy
+
+I’m interested in the shift toward **agent-driven software** — where autonomous systems collaborate with humans to execute work, not just assist with it.
+
+My work explores:
+
+- Mobile interfaces for autonomous agents  
+- Trust & identity in agent ecosystems  
+- Human-AI collaboration patterns  
+- Scalable infrastructure for persistent intelligence  
+
+---
+
+## Connect
+
+<div align="center">
+
+Portfolio & projects evolving — always building.
+
+</div>
